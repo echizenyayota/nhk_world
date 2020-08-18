@@ -4,14 +4,18 @@ https://www3.nhk.or.jp/nhkworld/en/news/backstories/1239/
 
 https://hackmd.io/5v9Gxr8dSPu3Lmr2FA1Qyg#2-Taiwan-Boosting-social-innovation-through-IT
 
-A
+### A
+
 "In social innovation, democracy happens literally every day. When your idea goes viral, the whole society changes" – an interview with Audrey Tang, Taiwan’s Digital Minister.
 
-B
+### B
+
 Former civic hacker and a top open-source software developer known for her efforts to contain the spread of Covid-19 in Taiwan, Tang sat down with NHK World’s Doden Aiko to share her thoughts on why she believes fighting off the pandemic will be the defining characteristic of social innovation in the new world order.
 
-C
+### C
+
 Taiwan’s approach to stemming the major outbreak of coronavirus seems to be working as the world grapples with the pandemic. According to the Taiwan Centers for Disease Control, the total number of confirmed cases stands at 480, with seven deaths, as of early August, and that’s without going into a full lockdown.
 
-D
+### D
+
 The minister known as Taiwan’s IT Genius is far from the typical cabinet minister you may have in mind. Tang was featured in a recent edition of Vogue Taiwan, posing in a stylish designer outfit. Vogue used a robot host to quiz her on topics from tech to fashion. NHK World went the more conventional way by interviewing her on Skype. Video interviews and teleworking are not new to Tang, as she has been working on the technology for more than ten years.
